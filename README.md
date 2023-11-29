@@ -111,3 +111,9 @@
 
 [![contrib graph](https://contrib.rocks/image?repo=PhiloCwh/Web3-Financial-Engineering-Courses)](https://github.com/PhiloCwh/Web3-Financial-Engineering-Courses/graphs/contributors)  
 
+
+# 版权声明
+
+本项目由 [Philo]() 本人同意授权给Web3Club 将其仓库clone到Web3Club的GitHub组织仓库内一同协作 
+
+但基于其原项目的Licence 其的版权所有仍归属于其本人 特此声明
