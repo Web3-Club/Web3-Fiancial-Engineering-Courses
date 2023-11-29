@@ -116,6 +116,6 @@
 
 本项目由 [Philo]() 本人同意授权给Web3Club 将其仓库clone到Web3Club的GitHub组织仓库内一同协作 
 
-但基于其原项目的现有Licence 本仓库的版权所有 仍归属于其本人所属GitHub 
+但基于其原项目的现有Licence 本仓库的版权所有 仍归属于其本人 及其所属GitHub
 
 **特此声明**
