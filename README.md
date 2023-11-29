@@ -121,5 +121,9 @@
 
 **特此声明**
 
-# 
+
+Built by Web3-Club [contributors](https://github.com/Web3-Club/Web3-Fiancial-Engineering-Courses#%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E8%80%85) with heart.  
+©️[Philo](https://github.com/philo)
+
+ALL RIGHT RESERVED  
 
